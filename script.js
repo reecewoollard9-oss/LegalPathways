@@ -108,33 +108,33 @@ It has 2 purposes:
 
 "law-routes": `Law degree opportunities —
 
-- [Insert your first researched point]
-- [Insert your second researched point]
-- [Insert your third researched point]`,
+- [Insert first researched point]
+- [Insert second researched point]
+- [Insert third researched point]`,
 
 "paramedic-routes": `Paramedic Science opportunities —
 
-- [Insert your first researched point]
-- [Insert your second researched point]
-- [Insert your third researched point]`,
+- [Insert first researched point]
+- [Insert second researched point]
+- [Insert third researched point]`,
 
 "policing-routes": `Policing and uniformed services —
 
-- [Insert your first researched point]
-- [Insert your second researched point]
-- [Insert your third researched point]`,
+- [Insert first researched point]
+- [Insert second researched point]
+- [Insert third researched point]`,
 
 "foundation-routes": `Foundation-year routes —
 
-- [Insert your first researched point]
-- [Insert your second researched point]
-- [Insert your third researched point]`,
+- [Insert first researched point]
+- [Insert second researched point]
+- [Insert third researched point]`,
 
 "checking-requirements": `Checking course requirements —
 
-- [Insert your first researched point]
-- [Insert your second researched point]
-- [Insert your third researched point]`
+- [Insert first researched point]
+- [Insert second researched point]
+- [Insert third researched point]`
 };
 
 
